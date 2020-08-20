@@ -19,6 +19,7 @@ The above was taken from: https://pubs.er.usgs.gov/publication/94800
 >   * Habitat for the Akepa and Hawaiian Creeper species
 >   * Wetland areas 
 >   * A Digital Elevation Model (DEM) for the Big Island
+The spatial data was collected from https://data.usgs.gov/datacatalog/
 
 ### Geoprocessing Methods
 ![final5](Final_flowChart/FlowChart.PNG)
