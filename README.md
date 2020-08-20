@@ -12,7 +12,7 @@ Many factors have been suggested to explain the decline of Hawaiian bird species
 
 Warner (1968) first identified pox and malaria as major pathogens of native forest birds. Van Riper et al. (1986) demonstrated that the highest incidence of malaria occurs in wet mid-elevation forests (between 900 m [3,000 ft] and 1,500 m [5,000 ft]) where populations of Culex mosquitoes overlap with highly susceptible native birds. Current investigations support these observations. Surveys for other disease agents identified several potentially pathogenic parasites and bacteria, but none has been implicated as a significant cause of mortality (van Riper and van Riper 1985).
 
-The above was taken from: http://biology.usgs.gov/s+t/noframe/t018.htm
+The above was taken from: https://pubs.er.usgs.gov/publication/94800
 
 ### Spatial Data Collected 
 >   * Hawaiian Islands 
