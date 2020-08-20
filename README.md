@@ -15,7 +15,11 @@ Warner (1968) first identified pox and malaria as major pathogens of native fore
 The above was taken from: http://biology.usgs.gov/s+t/noframe/t018.htm
 
 ### Spatial Data Collected 
->   * 1: Hawaiian Islands 
->   * 2: Habitat for the Akepa and Hawaiian Creeper species
->   * 3: Wetland areas 
->   * 3: A Digital Elevation Model (DEM) for the Big Island
+>   * Hawaiian Islands 
+>   * Habitat for the Akepa and Hawaiian Creeper species
+>   * Wetland areas 
+>   * A Digital Elevation Model (DEM) for the Big Island
+
+### Final Map
+
+
