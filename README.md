@@ -20,6 +20,27 @@ The above was taken from: http://biology.usgs.gov/s+t/noframe/t018.htm
 >   * Wetland areas 
 >   * A Digital Elevation Model (DEM) for the Big Island
 
+### Geoprocessing Methods
+![final5](Final_flowChart/FlowChart.PNG)
+>   * Select Big Island using “Select” tool then create layer from selected feature
+>   * Clip Akepa layer to Big Island
+>   * Clip Creeper layer to Big Island 
+>   * Clip wetlands layer to Big Island 
+>   * Clip contours layer to Big Island
+>   * Create layer from 3000 ft. contour
+>   * Create layer from 5000 ft. contour
+>   * Use “Erase” tool to erase 5000 polygon from 3000 polygon and create target elevation layer
+>   * Buffer wetlands to 50 meter 
+>   * Buffer Akepa to 150 meter 
+>   * Buffer Creeper to 150 meter 
+>   * Clip 3 buffered wetlands (mosquitos) to elevation polygon 
+>   * Intersect dangerous mosquitos with the buffered Akepa 
+>   * Intersect dangerous mosquitos with the buffered Creeper
+>   * Add hillshade background on maps 
+
 ### Final Map
 ![final](Final_Maps11/Final_Birds-1.png)
+
+### Conclusion
+Based on the final map shown above, six percent of the overall distribution of the honeycreepers and akepa in Hawaii overlaps with the wetlands dominated by mosquitos that means these areas are the endangered habitats for both the akepa and honeycreepers. It is evident that the endangered habitats for the honeycreepers and akepa are highly related due to their occurrence in the northeastern part of the island. 
 
